@@ -1,0 +1,200 @@
+2022-11-15 16:37:20.161  INFO 11132 --- [main] c.e.EmployeeManagementSystemApplication  : Starting EmployeeManagementSystemApplication using Java 17.0.4.1 on INDD-8G4YXC2 with PID 11132 (C:\Users\ADevaraju\Downloads\MondayEmployeeManagementSystem\AjayEmployeeManagementSystem\target\classes started by ADevaraju in C:\Users\ADevaraju\Downloads\MondayEmployeeManagementSystem\AjayEmployeeManagementSystem)
+2022-11-15 16:37:20.165  INFO 11132 --- [main] c.e.EmployeeManagementSystemApplication  : No active profile set, falling back to 1 default profile: "default"
+2022-11-15 16:37:21.008  INFO 11132 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-11-15 16:37:21.066  INFO 11132 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 44 ms. Found 1 JPA repository interfaces.
+2022-11-15 16:37:21.368  INFO 11132 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$5517633b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-11-15 16:37:21.431  INFO 11132 --- [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2022-11-15 16:37:21.667  INFO 11132 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-11-15 16:37:21.678  INFO 11132 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-15 16:37:21.678  INFO 11132 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2022-11-15 16:37:21.875  INFO 11132 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-15 16:37:21.875  INFO 11132 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1660 ms
+2022-11-15 16:37:22.019  INFO 11132 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-11-15 16:37:22.071  INFO 11132 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-11-15 16:37:22.226  INFO 11132 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-11-15 16:37:22.355  INFO 11132 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-11-15 16:37:22.663  INFO 11132 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-11-15 16:37:22.683  INFO 11132 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2022-11-15 16:37:23.322  INFO 11132 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-15 16:37:23.333  INFO 11132 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-11-15 16:37:24.524  INFO 11132 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-11-15 16:37:24.779  INFO 11132 --- [main] c.e.EmployeeManagementSystemApplication  : Started EmployeeManagementSystemApplication in 5.009 seconds (JVM running for 5.837)
+2022-11-15 16:38:59.927  INFO 11132 --- [RMI TCP Connection(5)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-11-15 16:38:59.936  INFO 11132 --- [RMI TCP Connection(5)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-11-15 16:38:59.944  INFO 11132 --- [RMI TCP Connection(5)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-11-15 16:38:59.945  INFO 11132 --- [RMI TCP Connection(5)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-11-15 16:38:59.952  INFO 11132 --- [RMI TCP Connection(5)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-11-15 16:39:02.494  INFO 3360 --- [main] c.e.EmployeeManagementSystemApplication  : Starting EmployeeManagementSystemApplication using Java 17.0.4.1 on INDD-8G4YXC2 with PID 3360 (C:\Users\ADevaraju\Downloads\MondayEmployeeManagementSystem\AjayEmployeeManagementSystem\target\classes started by ADevaraju in C:\Users\ADevaraju\Downloads\MondayEmployeeManagementSystem\AjayEmployeeManagementSystem)
+2022-11-15 16:39:02.498  INFO 3360 --- [main] c.e.EmployeeManagementSystemApplication  : No active profile set, falling back to 1 default profile: "default"
+2022-11-15 16:39:03.398  INFO 3360 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-11-15 16:39:03.455  INFO 3360 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 45 ms. Found 1 JPA repository interfaces.
+2022-11-15 16:39:03.723  INFO 3360 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$fc0c4ac8] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-11-15 16:39:03.784  INFO 3360 --- [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2022-11-15 16:39:04.027  INFO 3360 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-11-15 16:39:04.038  INFO 3360 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-15 16:39:04.038  INFO 3360 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2022-11-15 16:39:04.238  INFO 3360 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-15 16:39:04.239  INFO 3360 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1679 ms
+2022-11-15 16:39:04.385  INFO 3360 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-11-15 16:39:04.441  INFO 3360 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-11-15 16:39:04.599  INFO 3360 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-11-15 16:39:04.711  INFO 3360 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-11-15 16:39:05.027  INFO 3360 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-11-15 16:39:05.045  INFO 3360 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2022-11-15 16:47:59.677  INFO 11056 --- [main] EmployeeManagementSystemApplicationTests : Starting EmployeeManagementSystemApplicationTests using Java 17.0.4.1 on INDD-8G4YXC2 with PID 11056 (started by ADevaraju in C:\Users\ADevaraju\Downloads\MondayEmployeeManagementSystem\AjayEmployeeManagementSystem)
+2022-11-15 16:47:59.679  INFO 11056 --- [main] EmployeeManagementSystemApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2022-11-15 16:48:00.894  INFO 11056 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-11-15 16:48:00.967  INFO 11056 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 62 ms. Found 1 JPA repository interfaces.
+2022-11-15 16:48:01.415  INFO 11056 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$7b085980] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-11-15 16:48:01.505  INFO 11056 --- [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2022-11-15 16:48:01.822  INFO 11056 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-11-15 16:48:01.890  INFO 11056 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-11-15 16:48:02.098  INFO 11056 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-11-15 16:48:02.299  INFO 11056 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-11-15 16:48:02.660  INFO 11056 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-11-15 16:48:02.685  INFO 11056 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2022-11-15 16:48:03.700  INFO 11056 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-15 16:48:03.711  INFO 11056 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-11-15 16:48:07.310  INFO 11056 --- [main] EmployeeManagementSystemApplicationTests : Started EmployeeManagementSystemApplicationTests in 8.069 seconds (JVM running for 9.745)
+2022-11-15 16:48:08.042  INFO 11056 --- [main] c.e.service.EmployeeService              : EmployeeService : addEmployee : Working Successfully 
+2022-11-15 16:48:08.094  INFO 11056 --- [main] c.e.service.EmployeeService              : EmployeeService : getEmployeeById : Working Successfully 9
+2022-11-15 16:48:08.104  WARN 11056 --- [main] c.e.service.EmployeeService              :  EmployeeService : NoSuchElementException handled inside getEmployeeById Method  
+2022-11-15 16:48:08.111  INFO 11056 --- [main] c.e.service.EmployeeService              : EmployeeService : getAllEmployees : Working Successfully 
+2022-11-15 16:48:08.357  INFO 11056 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-11-15 16:48:08.363  INFO 11056 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-11-15 16:48:08.378  INFO 11056 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-11-15 16:49:49.672  INFO 7136 --- [main] EmployeeManagementSystemApplicationTests : Starting EmployeeManagementSystemApplicationTests using Java 17.0.4.1 on INDD-8G4YXC2 with PID 7136 (started by ADevaraju in C:\Users\ADevaraju\Downloads\MondayEmployeeManagementSystem\AjayEmployeeManagementSystem)
+2022-11-15 16:49:49.674  INFO 7136 --- [main] EmployeeManagementSystemApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2022-11-15 16:49:50.865  INFO 7136 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-11-15 16:49:50.939  INFO 7136 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 63 ms. Found 1 JPA repository interfaces.
+2022-11-15 16:49:51.370  INFO 7136 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$7b085980] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-11-15 16:49:51.441  INFO 7136 --- [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2022-11-15 16:49:51.729  INFO 7136 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-11-15 16:49:51.807  INFO 7136 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-11-15 16:49:52.027  INFO 7136 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-11-15 16:49:52.225  INFO 7136 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-11-15 16:49:52.601  INFO 7136 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-11-15 16:49:52.624  INFO 7136 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2022-11-15 16:49:53.509  INFO 7136 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-15 16:49:53.519  INFO 7136 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-11-15 16:49:56.577  INFO 7136 --- [main] EmployeeManagementSystemApplicationTests : Started EmployeeManagementSystemApplicationTests in 7.35 seconds (JVM running for 8.903)
+2022-11-15 16:49:57.017  INFO 7136 --- [main] c.e.service.EmployeeService              : EmployeeService : getEmployeeById : Working Successfully 0
+2022-11-15 16:49:57.045  WARN 7136 --- [main] c.e.service.EmployeeService              :  EmployeeService : NoSuchElementException handled inside getEmployeeById Method  
+2022-11-15 16:49:57.052  INFO 7136 --- [main] c.e.service.EmployeeService              : EmployeeService : getAllEmployees : Working Successfully 
+2022-11-15 16:49:57.295  INFO 7136 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-11-15 16:49:57.298  INFO 7136 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-11-15 16:49:57.310  INFO 7136 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-11-15 16:52:33.609  INFO 6228 --- [main] EmployeeManagementSystemApplicationTests : Starting EmployeeManagementSystemApplicationTests using Java 17.0.4.1 on INDD-8G4YXC2 with PID 6228 (started by ADevaraju in C:\Users\ADevaraju\Downloads\MondayEmployeeManagementSystem\AjayEmployeeManagementSystem)
+2022-11-15 16:52:33.611  INFO 6228 --- [main] EmployeeManagementSystemApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2022-11-15 16:52:34.947  INFO 6228 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-11-15 16:52:35.034  INFO 6228 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 73 ms. Found 1 JPA repository interfaces.
+2022-11-15 16:52:35.555  INFO 6228 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$7b085980] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-11-15 16:52:35.649  INFO 6228 --- [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2022-11-15 16:52:36.038  INFO 6228 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-11-15 16:52:36.120  INFO 6228 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-11-15 16:52:36.381  INFO 6228 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-11-15 16:52:36.605  INFO 6228 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-11-15 16:52:37.029  INFO 6228 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-11-15 16:52:37.056  INFO 6228 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2022-11-15 16:52:38.374  INFO 6228 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-15 16:52:38.385  INFO 6228 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-11-15 16:52:42.584  INFO 6228 --- [main] EmployeeManagementSystemApplicationTests : Started EmployeeManagementSystemApplicationTests in 9.408 seconds (JVM running for 10.845)
+2022-11-15 16:52:43.614  INFO 6228 --- [main] c.e.service.EmployeeService              : EmployeeService : addEmployee : Working Successfully 
+2022-11-15 16:52:43.621 ERROR 6228 --- [main] c.e.service.EmployeeService              :  EmployeeService : Employee PHONE NUMBER null  
+2022-11-15 16:52:43.650  INFO 6228 --- [main] c.e.service.EmployeeService              : EmployeeService : getEmployeeById : Working Successfully 15
+2022-11-15 16:52:43.728  INFO 6228 --- [main] c.e.service.EmployeeService              : EmployeeService : getAllEmployees : Working Successfully 
+2022-11-15 16:52:43.893  INFO 6228 --- [main] c.e.service.EmployeeService              : EmployeeService : updateEmployee : Working Successfully 15
+2022-11-15 16:52:44.562  INFO 6228 --- [main] c.e.service.EmployeeService              : Inside the method: deleteEmployeeById,Employee Id is sucessfully deleted15
+2022-11-15 16:52:44.607  INFO 6228 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-11-15 16:52:44.611  INFO 6228 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-11-15 16:52:44.628  INFO 6228 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-11-15 16:54:21.879  INFO 3928 --- [main] EmployeeManagementSystemApplicationTests : Starting EmployeeManagementSystemApplicationTests using Java 17.0.4.1 on INDD-8G4YXC2 with PID 3928 (started by ADevaraju in C:\Users\ADevaraju\Downloads\MondayEmployeeManagementSystem\AjayEmployeeManagementSystem)
+2022-11-15 16:54:21.881  INFO 3928 --- [main] EmployeeManagementSystemApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2022-11-15 16:54:23.178  INFO 3928 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-11-15 16:54:23.250  INFO 3928 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 61 ms. Found 1 JPA repository interfaces.
+2022-11-15 16:54:23.715  INFO 3928 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$7b085980] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-11-15 16:54:23.783  INFO 3928 --- [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2022-11-15 16:54:24.288  INFO 3928 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-11-15 16:54:24.366  INFO 3928 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-11-15 16:54:24.583  INFO 3928 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-11-15 16:54:24.781  INFO 3928 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-11-15 16:54:25.183  INFO 3928 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-11-15 16:54:25.207  INFO 3928 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2022-11-15 16:54:26.294  INFO 3928 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-15 16:54:26.309  INFO 3928 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-11-15 16:54:30.004  INFO 3928 --- [main] EmployeeManagementSystemApplicationTests : Started EmployeeManagementSystemApplicationTests in 8.53 seconds (JVM running for 9.998)
+2022-11-15 16:54:30.657  INFO 3928 --- [main] c.e.service.EmployeeService              : EmployeeService : addEmployee : Working Successfully 
+2022-11-15 16:54:30.661 ERROR 3928 --- [main] c.e.service.EmployeeService              :  EmployeeService : Employee PHONE NUMBER null  
+2022-11-15 16:54:30.684  INFO 3928 --- [main] c.e.service.EmployeeService              : EmployeeService : getEmployeeById : Working Successfully 15
+2022-11-15 16:54:30.695  WARN 3928 --- [main] c.e.service.EmployeeService              :  EmployeeService : NoSuchElementException handled inside getEmployeeById Method  
+2022-11-15 16:54:30.703  INFO 3928 --- [main] c.e.service.EmployeeService              : EmployeeService : getAllEmployees : Working Successfully 
+2022-11-15 16:54:30.926  INFO 3928 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-11-15 16:54:30.930  INFO 3928 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-11-15 16:54:30.941  INFO 3928 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-11-15 16:54:31.721  INFO 10184 --- [main] c.e.EmployeeManagementSystemApplication  : Starting EmployeeManagementSystemApplication using Java 17.0.4.1 on INDD-8G4YXC2 with PID 10184 (C:\Users\ADevaraju\Downloads\MondayEmployeeManagementSystem\AjayEmployeeManagementSystem\target\classes started by ADevaraju in C:\Users\ADevaraju\Downloads\MondayEmployeeManagementSystem\AjayEmployeeManagementSystem)
+2022-11-15 16:54:31.724  INFO 10184 --- [main] c.e.EmployeeManagementSystemApplication  : No active profile set, falling back to 1 default profile: "default"
+2022-11-15 16:54:32.585  INFO 10184 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-11-15 16:54:32.639  INFO 10184 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 42 ms. Found 1 JPA repository interfaces.
+2022-11-15 16:54:32.894  INFO 10184 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$1c829f55] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-11-15 16:54:32.953  INFO 10184 --- [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2022-11-15 16:54:33.182  INFO 10184 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-11-15 16:54:33.192  INFO 10184 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-15 16:54:33.192  INFO 10184 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2022-11-15 16:54:33.395  INFO 10184 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-15 16:54:33.396  INFO 10184 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1625 ms
+2022-11-15 16:54:33.532  INFO 10184 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-11-15 16:54:33.584  INFO 10184 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-11-15 16:54:33.740  INFO 10184 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-11-15 16:54:33.842  INFO 10184 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-11-15 16:54:34.143  INFO 10184 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-11-15 16:54:34.161  INFO 10184 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2022-11-15 16:54:34.800  INFO 10184 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-15 16:54:34.810  INFO 10184 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-11-15 16:54:35.962  INFO 10184 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-11-15 16:54:36.207  INFO 10184 --- [main] c.e.EmployeeManagementSystemApplication  : Started EmployeeManagementSystemApplication in 4.862 seconds (JVM running for 5.884)
+2022-11-15 16:55:06.742  INFO 10184 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-11-15 16:55:06.743  INFO 10184 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-11-15 16:55:06.744  INFO 10184 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-11-15 16:55:06.893  INFO 10184 --- [http-nio-8080-exec-2] c.e.service.EmployeeService              : EmployeeService : Uploading Photo : Working Successfully 
+2022-11-15 16:55:06.899  WARN 10184 --- [http-nio-8080-exec-2] c.e.service.EmployeeService              :  EmployeeService : IOException handled inside UploadPhoto Method  
+2022-11-15 16:55:19.877  INFO 10184 --- [http-nio-8080-exec-4] c.e.service.EmployeeService              : EmployeeService : Uploading Photo : Working Successfully 
+2022-11-15 16:55:19.881  WARN 10184 --- [http-nio-8080-exec-4] c.e.service.EmployeeService              :  EmployeeService : IOException handled inside UploadPhoto Method  
+2022-11-15 16:55:33.658  INFO 10184 --- [RMI TCP Connection(3)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-11-15 16:55:33.667  INFO 10184 --- [RMI TCP Connection(3)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-11-15 16:55:33.668  INFO 10184 --- [RMI TCP Connection(3)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-11-15 16:55:33.676  INFO 10184 --- [RMI TCP Connection(3)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-11-15 16:55:33.677  INFO 10184 --- [RMI TCP Connection(3)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-11-15 16:55:33.684  INFO 10184 --- [RMI TCP Connection(3)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-11-15 16:55:36.261  INFO 8332 --- [main] c.e.EmployeeManagementSystemApplication  : Starting EmployeeManagementSystemApplication using Java 17.0.4.1 on INDD-8G4YXC2 with PID 8332 (C:\Users\ADevaraju\Downloads\MondayEmployeeManagementSystem\AjayEmployeeManagementSystem\target\classes started by ADevaraju in C:\Users\ADevaraju\Downloads\MondayEmployeeManagementSystem\AjayEmployeeManagementSystem)
+2022-11-15 16:55:36.264  INFO 8332 --- [main] c.e.EmployeeManagementSystemApplication  : No active profile set, falling back to 1 default profile: "default"
+2022-11-15 16:55:37.136  INFO 8332 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-11-15 16:55:37.192  INFO 8332 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 44 ms. Found 1 JPA repository interfaces.
+2022-11-15 16:55:37.443  INFO 8332 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$c9c9cf7f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-11-15 16:55:37.505  INFO 8332 --- [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2022-11-15 16:55:37.742  INFO 8332 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-11-15 16:55:37.751  INFO 8332 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-15 16:55:37.752  INFO 8332 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2022-11-15 16:55:37.959  INFO 8332 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-15 16:55:37.959  INFO 8332 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1647 ms
+2022-11-15 16:55:38.100  INFO 8332 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-11-15 16:55:38.153  INFO 8332 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-11-15 16:55:38.309  INFO 8332 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-11-15 16:55:38.413  INFO 8332 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-11-15 16:55:38.712  INFO 8332 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-11-15 16:55:38.729  INFO 8332 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2022-11-15 16:55:39.411  INFO 8332 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-15 16:55:39.420  INFO 8332 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-11-15 16:55:40.613  INFO 8332 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-11-15 16:55:40.867  INFO 8332 --- [main] c.e.EmployeeManagementSystemApplication  : Started EmployeeManagementSystemApplication in 4.989 seconds (JVM running for 5.826)
+2022-11-15 16:55:44.627  INFO 8332 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-11-15 16:55:44.628  INFO 8332 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-11-15 16:55:44.629  INFO 8332 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-11-15 16:55:44.760  INFO 8332 --- [http-nio-8080-exec-2] c.e.service.EmployeeService              : EmployeeService : Uploading Photo : Working Successfully 
+2022-11-15 16:55:44.766  WARN 8332 --- [http-nio-8080-exec-2] c.e.service.EmployeeService              :  EmployeeService : IOException handled inside UploadPhoto Method  
+2022-11-15 16:55:44.782  INFO 8332 --- [http-nio-8080-exec-2] c.e.controller.EmployeeController        : Controller class : Add photo  : Working Successfully 
+2022-11-15 16:57:50.631  INFO 8332 --- [RMI TCP Connection(5)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-11-15 16:57:50.639  INFO 8332 --- [RMI TCP Connection(5)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-11-15 16:57:50.640  INFO 8332 --- [RMI TCP Connection(5)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-11-15 16:57:50.648  INFO 8332 --- [RMI TCP Connection(5)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-11-15 16:57:50.649  INFO 8332 --- [RMI TCP Connection(5)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-11-15 16:57:50.657  INFO 8332 --- [RMI TCP Connection(5)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
